@@ -1,0 +1,1 @@
+A HTTP 1.1 client, a websocket client, a json parser and some bonus function to decode/encode UTF-8/16/32.
